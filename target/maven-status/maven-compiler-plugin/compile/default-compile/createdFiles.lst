@@ -1,0 +1,13 @@
+pages\LoginPage.class
+pages\ContactsPage.class
+pages\HomePage.class
+pages\TasksPage.class
+extentReportListener\ReportExtentListener.class
+pages\DealsPage.class
+util\TestUtil.class
+ExtentReports\ExtentTestManager.class
+baseClass\BaseTest.class
+ExtentReports\ExtentManager.class
+pages\LogoutPage.class
+pages\SignUpPage.class
+util\WebEventListener.class
